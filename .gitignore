@@ -1,8 +1,11 @@
 /gym/**/*
-!/gym/ioi2021_*
+!/gym/index*
+!/gym/index*/ioi2021_*
+!/gym/statements
 !/**/*.md
 !/**/*.cpp
 !/**/*.c
 !/**/*.h
 !/**/*.hpp
+!/**/*.pdf
 !/**/Makefile

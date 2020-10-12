@@ -7,29 +7,29 @@ Example: 2014 ACM-ICPC World Finals A (101221 A):
 
 Grouped by uploaders in [ioihw20](https://ioihw20.duck-ac.cn/)
 
-| ID | Contest Name | Codeforce Gym ID | Link |
-|:-:|:--------------------:|:------:|:---------------------------------------------:|
-| A | 2014 WF              | 101221 | [click me](https://codeforces.com/gym/101221) |
-| B | 2015 WF              | 101239 | [click me](https://codeforces.com/gym/101239) |
-| C | 2016 WF              | 101242 | [click me](https://codeforces.com/gym/101242) |
-| D | 2017 WF              | 101471 | [click me](https://codeforces.com/gym/101471) |
-| E | 2018 WF              | 102482 | [click me](https://codeforces.com/gym/102482) |
-| F | 2019 WF              | 102511 | [click me](https://codeforces.com/gym/102511) |
-| G | 2017-2018 NEERC 17   | 101630 | [click me](https://codeforces.com/gym/101630) |
-| H | 2016-2017 NEERC 16   | 101190 | [click me](https://codeforces.com/gym/101190) |
-| I | 2015-2016 NEERC 15   | 100851 | [click me](https://codeforces.com/gym/100851) |
-| J | 2014-2015 NEERC 14   | 100553 | [click me](https://codeforces.com/gym/100553) |
-| K | 2013-2014 NEERC 13   | 100307 | [click me](https://codeforces.com/gym/100307) |
-| L | 2017-2018 CERC 17    | 101620 | [click me](https://codeforces.com/gym/101620) |
-| M | 2016-2017 CERC 16    | 101173 | [click me](https://codeforces.com/gym/101173) |
-| N | 2015-2016 CERC 15    | 101480 | [click me](https://codeforces.com/gym/101480) |
-| O | 2014-2015 CERC 14    | 100543 | [click me](https://codeforces.com/gym/100543) |
-| P | 2013-2014 CERC 13    | 100299 | [click me](https://codeforces.com/gym/100299) |
-| Q | 2017-2018 NEERC NSub | 101612 | [click me](https://codeforces.com/gym/101612) |
-| R | 2016-2017 NEERC NSub | 101142 | [click me](https://codeforces.com/gym/101142) |
-| S | 2015-2016 NEERC NSub | 100801 | [click me](https://codeforces.com/gym/100801) |
-| T | 2014-2015 NEERC NSub | 100531 | [click me](https://codeforces.com/gym/100531) |
-| U | 2013-2014 NEERC NSub | 100269 | [click me](https://codeforces.com/gym/100269) |
+| ID | Contest Name | Codeforces Gym ID | Link | Statement |
+|:-:|:--------------------:|:------:|:---------------------------------------------:|:-:|
+| A | 2014 WF              | 101221 | [click me](https://codeforces.com/gym/101221) | [view](statements/2014-acmicpc-world-finals-en.pdf) |
+| B | 2015 WF              | 101239 | [click me](https://codeforces.com/gym/101239) | [view](statements/2015-acmicpc-world-finals-en.pdf) |
+| C | 2016 WF              | 101242 | [click me](https://codeforces.com/gym/101242) | [view](statements/2016-acmicpc-world-finals-en.pdf) |
+| D | 2017 WF              | 101471 | [click me](https://codeforces.com/gym/101471) | [view](statements/2017-acmicpc-world-finals-en.pdf) |
+| E | 2018 WF              | 102482 | [click me](https://codeforces.com/gym/102482) | [view](statements/2018-acmicpc-world-finals-en.pdf) |
+| F | 2019 WF              | 102511 | [click me](https://codeforces.com/gym/102511) | [view](statements/2019-acmicpc-world-finals-en.pdf) |
+| G | 2017-2018 NEERC 17   | 101630 | [click me](https://codeforces.com/gym/101630) | [view](statements/20172018-acmicpc-northeastern-european-regional-contest-neerc-17-en.pdf) |
+| H | 2016-2017 NEERC 16   | 101190 | [click me](https://codeforces.com/gym/101190) | [view](statements/20162017-acmicpc-northeastern-european-regional-contest-neerc-16-en.pdf) |
+| I | 2015-2016 NEERC 15   | 100851 | [click me](https://codeforces.com/gym/100851) | [view](statements/20152016-acmicpc-northeastern-european-regional-contest-neerc-15-en.pdf) |
+| J | 2014-2015 NEERC 14   | 100553 | [click me](https://codeforces.com/gym/100553) | [view](statements/20142015-acmicpc-northeastern-european-regional-contest-neerc-14-en.pdf) |
+| K | 2013-2014 NEERC 13   | 100307 | [click me](https://codeforces.com/gym/100307) | [view](statements/20132014-acmicpc-northeastern-european-regional-contest-neerc-13-en.pdf) |
+| L | 2017-2018 CERC 17    | 101620 | [click me](https://codeforces.com/gym/101620) | [view](statements/20172018-acmicpc-central-europe-regional-contest-cerc-17-en.pdf) |
+| M | 2016-2017 CERC 16    | 101173 | [click me](https://codeforces.com/gym/101173) | [view](statements/20162017-acmicpc-central-europe-regional-contest-cerc-16-en.pdf) |
+| N | 2015-2016 CERC 15    | 101480 | [click me](https://codeforces.com/gym/101480) | [view](statements/20152016-acmicpc-central-europe-regional-contest-cerc-15-en.pdf) |
+| O | 2014-2015 CERC 14    | 100543 | [click me](https://codeforces.com/gym/100543) | [view](statements/20142015-acmicpc-central-europe-regional-contest-cerc-14-en.pdf) |
+| P | 2013-2014 CERC 13    | 100299 | [click me](https://codeforces.com/gym/100299) | [view](statements/20132014-acm-icpc-central-european-regional-contest-cerc-13-en.pdf) |
+| Q | 2017-2018 NEERC NSub | 101612 | [click me](https://codeforces.com/gym/101612) | [view](statements/20172018-acmicpc-neerc-northern-subregional-contest-en.pdf) |
+| R | 2016-2017 NEERC NSub | 101142 | [click me](https://codeforces.com/gym/101142) | [view](statements/20162017-acmicpc-neerc-northern-subregional-contest-en.pdf) |
+| S | 2015-2016 NEERC NSub | 100801 | [click me](https://codeforces.com/gym/100801) | [view](statements/20152016-acmicpc-neerc-northern-subregional-contest-en.pdf) |
+| T | 2014-2015 NEERC NSub | 100531 | [click me](https://codeforces.com/gym/100531) | [view](statements/20142015-acmicpc-neerc-northern-subregional-contest-en.pdf) |
+| U | 2013-2014 NEERC NSub | 100269 | [click me](https://codeforces.com/gym/100269) | [view](statements/20132014-acmicpc-neerc-nothern-subregional-contest-en.pdf) |
 
 Emm... Ctrl-F is pretty useful
 
