@@ -1,9 +1,11 @@
+# Codeforces Gym Problems
 Source code file name meanings:
 
 \${ID}+\${Problem number}
 
 Example: 2014 ACM-ICPC World Finals A (101221 A):
-/gym/ioi2021\_06/AA.cpp
+
+/gym/index00\_09/ioi2021\_06/AA.cpp
 
 Grouped by uploaders in [ioihw20](https://ioihw20.duck-ac.cn/)
 
