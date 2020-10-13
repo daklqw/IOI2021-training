@@ -58,4 +58,32 @@ tab = [
 ['AK','GG','JG','']
 ]
 
+link = [
+["https://codeforces.com/gym/101221", "statements/2014-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/101239", "statements/2015-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/101242", "statements/2016-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/101471", "statements/2017-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/102482", "statements/2018-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/102511", "statements/2019-acmicpc-world-finals-en.pdf"],
+["https://codeforces.com/gym/101630", "statements/20172018-acmicpc-northeastern-european-regional-contest-neerc-17-en.pdf"],
+["https://codeforces.com/gym/101190", "statements/20162017-acmicpc-northeastern-european-regional-contest-neerc-16-en.pdf"],
+["https://codeforces.com/gym/100851", "statements/20152016-acmicpc-northeastern-european-regional-contest-neerc-15-en.pdf"],
+["https://codeforces.com/gym/100553", "statements/20142015-acmicpc-northeastern-european-regional-contest-neerc-14-en.pdf"],
+["https://codeforces.com/gym/100307", "statements/20132014-acmicpc-northeastern-european-regional-contest-neerc-13-en.pdf"],
+["https://codeforces.com/gym/101620", "statements/20172018-acmicpc-central-europe-regional-contest-cerc-17-en.pdf"],
+["https://codeforces.com/gym/101173", "statements/20162017-acmicpc-central-europe-regional-contest-cerc-16-en.pdf"],
+["https://codeforces.com/gym/101480", "statements/20152016-acmicpc-central-europe-regional-contest-cerc-15-en.pdf"],
+["https://codeforces.com/gym/100543", "statements/20142015-acmicpc-central-europe-regional-contest-cerc-14-en.pdf"],
+["https://codeforces.com/gym/100299", "statements/20132014-acm-icpc-central-european-regional-contest-cerc-13-en.pdf"],
+["https://codeforces.com/gym/101612", "statements/20172018-acmicpc-neerc-northern-subregional-contest-en.pdf"],
+["https://codeforces.com/gym/101142", "statements/20162017-acmicpc-neerc-northern-subregional-contest-en.pdf"],
+["https://codeforces.com/gym/100801", "statements/20152016-acmicpc-neerc-northern-subregional-contest-en.pdf"],
+["https://codeforces.com/gym/100531", "statements/20142015-acmicpc-neerc-northern-subregional-contest-en.pdf"],
+["https://codeforces.com/gym/100269", "statements/20132014-acmicpc-neerc-nothern-subregional-contest-en.pdf"]
+]
+pr = tab[user][rnk]
 print('Directory:', user, 'Problem:', tab[user][rnk])
+if pr != '':
+    id = ord(pr[0]) - ord('A')
+    print('Submit:', link[id][0] + '/submit/' + pr[1])
+    print('Statement:', 'xdg-open ./' + link[id][1])
