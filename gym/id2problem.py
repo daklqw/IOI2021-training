@@ -1,6 +1,6 @@
 #!/bin/python3
 
-n = int(input())
+n = int(input("Input problem ID:"))
 n -= 101
 user = n // 4
 rnk = n % 4
