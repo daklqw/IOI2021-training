@@ -32,8 +32,8 @@
 
 $$
 \begin{align*}
-& (w_{i,y} + w_{j,x}) - (w_{i,x} + w_{j,y})
-= & (p_x - p_y) (t_i - t_j) + (d_i - d_j) (t_x - t_y)
+& (w_{i,y} + w_{j,x}) - (w_{i,x} + w_{j,y}) \\
+= & (p_x - p_y) (t_i - t_j) + (p_i - p_j) (t_x - t_y)
 \end{align*}
 $$
 
