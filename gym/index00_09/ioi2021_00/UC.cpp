@@ -12,7 +12,7 @@ int n, m;
 int AA[MAXN][MAXN], AB[MAXN][MAXN], BB[MAXN][MAXN];
 int main() {
 #define FILENAME "curiosity"
-#ifdef FILENAME
+#ifdef ONLINE_JUDGE
 	freopen(FILENAME ".in", "r", stdin);
 	freopen(FILENAME ".out", "w", stdout);
 #endif
@@ -25,10 +25,10 @@ int main() {
 	getLCP(rhs, rhs, BB);
 	int ansl = 0x3f3f3f3f, AL = -1, AR = -1, BL = -1, BR = -1;
 	for (int l = 0; l < n; ++l) {
-		int ma = n - l + 1;
+		int ma = 0;
 		for (int j = 0; j < l; ++j)
 			if (AA[j][l])
-				ma = std::min(ma, AA[j][l]);
+				ma = std::max(ma, AA[j][l]);
 		static int buc[MAXN], rk[MAXN];
 		memset(buc, 0, n + 1 << 2);
 		for (int j = l; j < n; ++j)
@@ -41,7 +41,7 @@ int main() {
 			if (AA[j][l])
 				rk[--buc[AA[j][l]]] = j;
 		int cur = 0;
-		for (int A = 1; A < ma; ++A) {
+		for (int A = ma + 1; A + l <= n; ++A) {
 			while (cur < all && AA[rk[cur]][l] < A)
 				++cur;
 			static int li[MAXN], bak;
