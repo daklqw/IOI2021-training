@@ -1,0 +1,36 @@
+<!--================================================================-->
+<!-- ACM ICPC 2015-2016, NEERC                                      -->
+<!-- Northern Subregional Contest                                   -->
+<!-- St Petersburg, October 24, 2015                                -->
+<!--================================================================-->
+<!-- Problem F. Fygon                                               -->
+<!--                                                                -->
+<!-- Original idea         Pavel Mavrin                             -->
+<!-- Problem statement     Pavel Mavrin                             -->
+<!-- Test set              Pavel Mavrin                             -->
+<!--================================================================-->
+
+
+<problem
+    id      = "qf.2015.main.fygon"
+    version = "1.0"
+>
+    <judging>
+        <script type = "%icpc">
+            <testset
+                test-count   = "50"
+                input-href   = "tests/##"
+                answer-href  = "tests/##.a"
+                input-name   = "fygon.in"
+                output-name  = "fygon.out"
+                time-limit   = "2s"
+                memory-limit = "268435456"
+            />
+            <verifier type = "%testlib">
+                <binary executable-id = "java.check" file = "Check.jar"/>
+            </verifier>
+            
+        </script>
+    </judging>
+</problem>
+
